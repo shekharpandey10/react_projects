@@ -6,7 +6,7 @@ import GamePlay from './GamePlay'
 const GamePage = () => {
   return (
   <div>
-    <Header/>
+    
     <GamePlay/>
   </div>
   )

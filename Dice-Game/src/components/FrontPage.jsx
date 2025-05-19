@@ -12,6 +12,7 @@ const FrontPage = ({toggle}) => {
             <h1 className='text-7xl font-bold'>DICE GAME</h1>
             <Button css="bg-black text-white rounded-lg self-end " divProp="ml-auto" 
             toggleBtn={toggle}
+            value="Play Now"
             />
         </div>
     </div>
