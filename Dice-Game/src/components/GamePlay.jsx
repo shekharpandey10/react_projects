@@ -65,7 +65,7 @@ const GamePlay = () => {
       </div>
       <div>
         {rule && (
-          <div className='flex flex-col w-[40%] mx-auto my-12 h-40 justify-center items-center text-center bg-pink-300 border border-black'>
+          <div className='flex flex-col w-[40%] mx-auto my-12 h-50 justify-center items-center text-center rounded-xl bg-pink-300 border border-black font-medium p-4'>
             <h3 className='text-2xl'>How to play dice game</h3>
             <br />
             <ul>
